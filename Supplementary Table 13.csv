@@ -1,0 +1,203 @@
+Original Addgene Expression Data,Categories
+AAV,Mammalian
+"AAV, Cre/Lox",Mammalian
+"AAV, Cre/Lox, Other",Mammalian
+"AAV, Other",Mammalian
+"AAV, Other, Unspecified",Mammalian
+Adenoviral,Mammalian
+"Adenoviral, Other",Mammalian
+Bacterial Expression,Bacterial
+"Bacterial Expression, Cre/Lox",Bacterial
+"Bacterial Expression, Cre/Lox, Other",Bacterial
+"Bacterial Expression, CRISPR",Bacterial
+"Bacterial Expression, CRISPR, Other",Bacterial
+"Bacterial Expression, CRISPR, Synthetic Biology",Bacterial
+"Bacterial Expression, Insect Expression",Insect
+"Bacterial Expression, Insect Expression, Other",Insect
+"Bacterial Expression, Luciferase",Bacterial
+"Bacterial Expression, Luciferase, Other",Bacterial
+"Bacterial Expression, Luciferase, Synthetic Biology, Other",Bacterial
+"Bacterial Expression, Other",Bacterial
+"Bacterial Expression, Other, Unspecified",Bacterial
+"Bacterial Expression, Plant Expression",Plant
+"Bacterial Expression, Retroviral",Mammalian
+"Bacterial Expression, RNAi",Bacterial
+"Bacterial Expression, Synthetic Biology",Bacterial
+"Bacterial Expression, Synthetic Biology, Other",Bacterial
+"Bacterial Expression, TALEN",Bacterial
+"Bacterial Expression, Unspecified",Bacterial
+"Bacterial Expression, Worm Expression",Worm
+"Bacterial Expression, Yeast Expression",Yeast
+"Bacterial Expression, Yeast Expression, Cre/Lox",Yeast
+"Bacterial Expression, Yeast Expression, CRISPR",Yeast
+"Bacterial Expression, Yeast Expression, CRISPR, Synthetic Biology",Yeast
+"Bacterial Expression, Yeast Expression, Other",Yeast
+"Bacterial Expression, Yeast Expression, Synthetic Biology",Yeast
+"Bacterial Expression, Yeast Expression, Synthetic Biology, Other",Yeast
+Cre/Lox,Unspecified
+"Cre/Lox, Other",Unspecified
+CRISPR,Unspecified
+"CRISPR, Other",Unspecified
+"CRISPR, Synthetic Biology",Unspecified
+"CRISPR, Unspecified",Unspecified
+Insect Expression,Insect
+"Insect Expression, Cre/Lox",Insect
+"Insect Expression, CRISPR",Insect
+"Insect Expression, CRISPR, Other",Insect
+"Insect Expression, CRISPR, Synthetic Biology, Other",Insect
+"Insect Expression, Luciferase",Insect
+"Insect Expression, Luciferase, Other",Insect
+"Insect Expression, Other",Insect
+"Insect Expression, Retroviral",Mammalian
+"Insect Expression, RNAi",Insect
+"Insect Expression, TALEN",Insect
+Lentiviral,Mammalian
+"Lentiviral, Cre/Lox",Mammalian
+"Lentiviral, Cre/Lox, CRISPR",Mammalian
+"Lentiviral, Cre/Lox, Luciferase",Mammalian
+"Lentiviral, CRISPR",Mammalian
+"Lentiviral, Luciferase",Mammalian
+"Lentiviral, Other",Mammalian
+"Lentiviral, RNAi",Mammalian
+"Lentiviral, Synthetic Biology",Mammalian
+Luciferase,Unspecified
+"Luciferase, Other",Unspecified
+"Luciferase, Synthetic Biology",Unspecified
+Mammalian Expression,Mammalian
+Mammalian Expression,Mammalian
+"Mammalian Expression, AAV",Mammalian
+"Mammalian Expression, AAV, Cre/Lox",Mammalian
+"Mammalian Expression, AAV, Cre/Lox, Other",Mammalian
+"Mammalian Expression, AAV, Cre/Lox, Synthetic Biology",Mammalian
+"Mammalian Expression, AAV, CRISPR",Mammalian
+"Mammalian Expression, AAV, Other",Mammalian
+"Mammalian Expression, AAV, RNAi",Mammalian
+"Mammalian Expression, AAV, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, AAV, RNAi, Other",Mammalian
+"Mammalian Expression, AAV, Synthetic Biology",Mammalian
+"Mammalian Expression, AAV, TALEN",Mammalian
+"Mammalian Expression, Adenoviral",Mammalian
+"Mammalian Expression, Bacterial Expression",Mammalian
+"Mammalian Expression, Bacterial Expression, CRISPR",Mammalian
+"Mammalian Expression, Bacterial Expression, Insect Expression",Mammalian
+"Mammalian Expression, Bacterial Expression, Lentiviral",Mammalian
+"Mammalian Expression, Bacterial Expression, Lentiviral, Other",Mammalian
+"Mammalian Expression, Bacterial Expression, Luciferase",Mammalian
+"Mammalian Expression, Bacterial Expression, Mouse Targeting",Mammalian
+"Mammalian Expression, Bacterial Expression, Mouse Targeting, Cre/Lox",Mammalian
+"Mammalian Expression, Bacterial Expression, Mouse Targeting, Other",Mammalian
+"Mammalian Expression, Bacterial Expression, Retroviral",Mammalian
+"Mammalian Expression, Bacterial Expression, Worm Expression, Other",Mammalian
+"Mammalian Expression, Bacterial Expression, Yeast Expression",Mammalian
+"Mammalian Expression, Bacterial Expression, Yeast Expression, Insect Expression, Other",Mammalian
+"Mammalian Expression, Bacterial Expression, Yeast Expression, Insect Expression, Plant Expression, Synthetic Biology",Mammalian
+"Mammalian Expression, Bacterial Expression, Yeast Expression, Lentiviral",Mammalian
+"Mammalian Expression, Cre/Lox",Mammalian
+"Mammalian Expression, Cre/Lox, Other",Mammalian
+"Mammalian Expression, CRISPR",Mammalian
+"Mammalian Expression, CRISPR, Other",Mammalian
+"Mammalian Expression, CRISPR, Synthetic Biology",Mammalian
+"Mammalian Expression, CRISPR, Synthetic Biology, Other",Mammalian
+"Mammalian Expression, CRISPR, TALEN",Mammalian
+"Mammalian Expression, CRISPR, TALEN, Other",Mammalian
+"Mammalian Expression, Insect Expression, Luciferase",Mammalian
+"Mammalian Expression, Lentiviral",Mammalian
+"Mammalian Expression, Lentiviral, Cre/Lox",Mammalian
+"Mammalian Expression, Lentiviral, CRISPR",Mammalian
+"Mammalian Expression, Lentiviral, CRISPR, Synthetic Biology",Mammalian
+"Mammalian Expression, Lentiviral, Luciferase",Mammalian
+"Mammalian Expression, Lentiviral, Other",Mammalian
+"Mammalian Expression, Lentiviral, Retroviral",Mammalian
+"Mammalian Expression, Lentiviral, RNAi",Mammalian
+"Mammalian Expression, Lentiviral, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, Lentiviral, RNAi, Other",Mammalian
+"Mammalian Expression, Lentiviral, Synthetic Biology",Mammalian
+"Mammalian Expression, Lentiviral, TALEN",Mammalian
+"Mammalian Expression, Luciferase",Mammalian
+"Mammalian Expression, Luciferase, Other",Mammalian
+"Mammalian Expression, Mouse Targeting",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV, Cre/Lox",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV, Cre/Lox, CRISPR",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV, Cre/Lox, CRISPR, Luciferase",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV, CRISPR",Mammalian
+"Mammalian Expression, Mouse Targeting, AAV, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, Mouse Targeting, Cre/Lox",Mammalian
+"Mammalian Expression, Mouse Targeting, Cre/Lox, CRISPR",Mammalian
+"Mammalian Expression, Mouse Targeting, Cre/Lox, Other",Mammalian
+"Mammalian Expression, Mouse Targeting, CRISPR, TALEN",Mammalian
+"Mammalian Expression, Mouse Targeting, Lentiviral, Cre/Lox, CRISPR",Mammalian
+"Mammalian Expression, Mouse Targeting, Other",Mammalian
+"Mammalian Expression, Mouse Targeting, Retroviral",Mammalian
+"Mammalian Expression, Mouse Targeting, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, Mouse Targeting, TALEN",Mammalian
+"Mammalian Expression, Other",Mammalian
+"Mammalian Expression, Retroviral",Mammalian
+"Mammalian Expression, Retroviral, Cre/Lox",Mammalian
+"Mammalian Expression, Retroviral, Cre/Lox, Other",Mammalian
+"Mammalian Expression, Retroviral, CRISPR",Mammalian
+"Mammalian Expression, Retroviral, CRISPR, Other",Mammalian
+"Mammalian Expression, Retroviral, Luciferase",Mammalian
+"Mammalian Expression, Retroviral, Other",Mammalian
+"Mammalian Expression, Retroviral, RNAi",Mammalian
+"Mammalian Expression, Retroviral, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, Retroviral, RNAi, Other",Mammalian
+"Mammalian Expression, Retroviral, Synthetic Biology",Mammalian
+"Mammalian Expression, Retroviral, TALEN",Mammalian
+"Mammalian Expression, RNAi",Mammalian
+"Mammalian Expression, RNAi, Cre/Lox",Mammalian
+"Mammalian Expression, RNAi, Other",Mammalian
+"Mammalian Expression, Synthetic Biology",Mammalian
+"Mammalian Expression, Synthetic Biology, Other",Mammalian
+"Mammalian Expression, TALEN",Mammalian
+"Mammalian Expression, TALEN, Other",Mammalian
+"Mammalian Expression, Worm Expression, Other",Mammalian
+"Mammalian Expression, Yeast Expression",Mammalian
+Mouse Targeting,Mammalian
+"Mouse Targeting, Cre/Lox",Mammalian
+"Mouse Targeting, Other",Mammalian
+"Mouse Targeting, RNAi",Mammalian
+"Mouse Targeting, Synthetic Biology",Mammalian
+N/A,Unspecified
+Other,Unspecified
+Plant Expression,Plant
+"Plant Expression, Cre/Lox",Plant
+"Plant Expression, CRISPR",Plant
+"Plant Expression, CRISPR, Other",Plant
+"Plant Expression, CRISPR, Synthetic Biology",Plant
+"Plant Expression, Luciferase, Synthetic Biology",Plant
+"Plant Expression, Other",Plant
+"Plant Expression, Synthetic Biology",Plant
+"Plant Expression, TALEN",Plant
+Retroviral,Mammalian
+"Retroviral, Luciferase",Mammalian
+"Retroviral, Other",Mammalian
+"Retroviral, RNAi",Mammalian
+"Retroviral, RNAi, Other",Mammalian
+RNAi,Unspecified
+"RNAi, Other",Unspecified
+Synthetic Biology,Unspecified
+"Synthetic Biology, Other",Unspecified
+TALEN,Unspecified
+"TALEN, Other",Unspecified
+Unspecified,Unspecified
+Worm Expression,Worm
+"Worm Expression, Cre/Lox",Worm
+"Worm Expression, Cre/Lox, CRISPR",Worm
+"Worm Expression, Cre/Lox, Other",Worm
+"Worm Expression, CRISPR",Worm
+"Worm Expression, CRISPR, Other",Worm
+"Worm Expression, Other",Worm
+"Worm Expression, RNAi",Worm
+"Worm Expression, RNAi, Other",Worm
+Yeast Expression,Yeast
+"Yeast Expression, Cre/Lox",Yeast
+"Yeast Expression, Cre/Lox, Other",Yeast
+"Yeast Expression, CRISPR",Yeast
+"Yeast Expression, CRISPR, Other",Yeast
+"Yeast Expression, CRISPR, Synthetic Biology",Yeast
+"Yeast Expression, Other",Yeast
+"Yeast Expression, Synthetic Biology",Yeast
+"Yeast Expression, Synthetic Biology, Other",Yeast
+"Yeast Expression, TALEN",Yeast
+#N/A,Unspecified

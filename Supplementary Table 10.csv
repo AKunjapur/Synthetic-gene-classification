@@ -1,0 +1,28 @@
+Name,Internal ID,Reference
+yPbSalSyn,Test_0121,Galanie et al
+yEcCFS1-83-yPbSalSyn92-504 ,Test_0122,Galanie et al
+yPbDRS-DRR (Pbr.89405),Test_0123,Galanie et al
+yPsDRS-DRR(Pso.2062398),Test_0124,Galanie et al
+yPbDRS-DRR (Pbr.12180),Test_0125,Galanie et al
+yPbDRS-DRR (Pbr.4328),Test_0126,Galanie et al
+yPbSalAT-1,Test_0127,Galanie et al
+yPbSalAT-2,Test_0128,Galanie et al
+yPoSalAT,Test_0129,Galanie et al
+yPsAT1,Test_0130,Galanie et al
+eGFP control table (CT),Test_0131,Lanza et al
+eGFP high expression table (HT),Test_0132,Lanza et al
+eGFP control matrix 1 (C1),Test_0133,Lanza et al
+eGFP control matrix 2 (C2) ,Test_0134,Lanza et al
+eGFP control matrix 3 (C3) ,Test_0135,Lanza et al
+eGFP high expression matrix 1 (H1) ,Test_0136,Lanza et al
+eGFP high expression matrix 2 (H2),Test_0137,Lanza et al
+eGFP high expression matrix 3 (H3),Test_0138,Lanza et al
+CatA Blue Heron,Test_0139,Lanza et al
+CatA control 1 (C1) ,Test_0140,Lanza et al
+CatA control 2 (C2),Test_0141,Lanza et al
+CatA control 3 (C3) ,Test_0142,Lanza et al
+CatA stationary 1 (S1) ,Test_0143,Lanza et al
+CatA stationary 2 (S2) ,Test_0144,Lanza et al
+CatA stationary 3 (S3) ,Test_0145,Lanza et al
+CatA high expression 1 (H1) ,Test_0146,Lanza et al
+CatA high expression 2 (H2) ,Test_0147,Lanza et al
